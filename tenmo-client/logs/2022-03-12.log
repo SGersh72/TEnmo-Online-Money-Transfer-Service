@@ -1,0 +1,6 @@
+2022-03-12T18:41:13.8798377 400 : [{"timestamp":"2022-03-12T23:41:13.854+00:00","status":400,"error":"Bad Request","message":"User registration failed.","path":"/register"}]
+2022-03-12T19:42:03.2607276 401 : [{"timestamp":"2022-03-13T00:42:03.236+00:00","status":401,"error":"Unauthorized","message":"Full authentication is required to access this resource","path":"/users/1002"}]
+2022-03-12T19:42:10.0810138 401 : [{"timestamp":"2022-03-13T00:42:10.078+00:00","status":401,"error":"Unauthorized","message":"Full authentication is required to access this resource","path":"/users/9999"}]
+2022-03-12T19:42:14.1309246 401 : [{"timestamp":"2022-03-13T00:42:14.129+00:00","status":401,"error":"Unauthorized","message":"Full authentication is required to access this resource","path":"/users/1001"}]
+2022-03-12T19:54:09.1067683 401 : [{"timestamp":"2022-03-13T00:54:09.083+00:00","status":401,"error":"Unauthorized","message":"Full authentication is required to access this resource","path":"/users/1001"}]
+2022-03-12T19:55:32.456911 401 : [{"timestamp":"2022-03-13T00:55:32.435+00:00","status":401,"error":"Unauthorized","message":"Full authentication is required to access this resource","path":"/users/1001"}]
