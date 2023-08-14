@@ -1,5 +1,3 @@
-**Please Note: this capstone team project is displayed only for the purpose of the interview process at Tech Elevator**
-
 # Capstone - TEnmo
 
 TEnmo is an online payment transfer application using a RESTful API server and a PostgreSQL database.
